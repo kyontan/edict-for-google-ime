@@ -4,17 +4,21 @@
 
 「@日本語」と入力することで、英語に変換することができます。
 
-## インストール方法
+## installation (インストール方法)
 
-Google日本語入力の辞書ツールから、 edict-googleime.txt を新規辞書にインポートしてください。
+Google日本語入力の辞書ツールから、 `edict-googleime.txt` を新規辞書にインポートしてください。
 
-## ライセンス
+Import `edict-googleime.txt` using Dictionary Tool of Google Japanese Input
+
+## Licence (ライセンス)
 
 [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)
 
-![クリエイティブ・コモンズ・ライセンス](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-このライセンスはは 辞書ファイル にのみ適用されます。
+このライセンスは 辞書ファイル にのみ適用されます。
+
+This license is applied only Dictionary File (`edict-googleime.txt`)
 
 ## EDICT(Japanese-English Electronic DICTionary)
 
