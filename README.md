@@ -1,8 +1,9 @@
 # EDICT for Google 日本語入力	
 
-[http://www.nurs.or.jp/~nagadomi/edictime2/](IME和英辞書 - EDICT for MS-IME 2) に若干の修正を加え、 Google 日本語入力 に対応したものです
+[The EDICT Dictionary File](http://www.edrdg.org/jmdict/edict.html) を利用した IME用の辞書である、
+[IME和英辞書 - EDICT for MS-IME 2](http://www.nurs.or.jp/~nagadomi/edictime2/) に若干の修正を加え、 Google 日本語入力 に対応したものです
 
-「@日本語」と入力することで、英語に変換することができます。
+「@辞書で引きたい単語」と入力することで、英語に変換することができます。
 
 ## installation (インストール方法)
 
