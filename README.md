@@ -5,11 +5,12 @@
 
 「@辞書で引きたい単語」と入力することで、英語に変換することができます。
 
-## installation (インストール方法)
+## How to use (インストール方法)
 
-Google日本語入力の辞書ツールから、 `edict-googleime.txt` を新規辞書にインポートしてください。
+1. [edict-googleime.txt](https://github.com/kyontan/edict-for-google-ime/raw/master/edict-googleime.txt) をダウンロードしてください
+2. Google日本語入力の辞書ツールから、ダウンロードしたファイルを新規辞書にインポートしてください。
 
-Import `edict-googleime.txt` using Dictionary Tool of Google Japanese Input
+Download [edict-googleime.txt](https://github.com/kyontan/edict-for-google-ime/raw/master/edict-googleime.txt) and import using Dictionary Tool of Google Japanese Input.
 
 ## Licence (ライセンス)
 
