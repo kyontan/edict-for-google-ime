@@ -24,4 +24,4 @@ This license is applied only Dictionary File (`edict-googleime.txt`)
 
 ## EDICT(Japanese-English Electronic DICTionary)
 
-Original: [The EDICT Dictionary File](http://www.csse.monash.edu.au/~jwb/edict.html)
+Original: [The EDICT Dictionary File](https://www.edrdg.org/jmdict/edict.html)
